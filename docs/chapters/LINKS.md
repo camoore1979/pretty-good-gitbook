@@ -1,7 +1,0 @@
-
-# FOR MORE
-
-## Contents
-<!-- toc -->
-
-##
