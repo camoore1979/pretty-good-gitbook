@@ -73,3 +73,5 @@ Lorem ipsum.
 + [gitbook.com](https://www.gitbook.com/)
 + [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
 + [gitbook plugins](https://plugins.gitbook.com/)
++ [guide to creating a gitbook](https://toolchain.gitbook.com/setup.html)
++ [Example of a great gitbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
