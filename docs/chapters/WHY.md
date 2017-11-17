@@ -67,3 +67,9 @@ Who improves the project by documenting something.
 ## I could go on forever
 
 Lorem ipsum.
+
+## Links
+
++ [gitbook.com](https://www.gitbook.com/)
++ [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
++ [gitbook plugins](https://plugins.gitbook.com/)
