@@ -1,4 +1,7 @@
-# pretty-good-gitbook
+# Pretty Good Gitbook
+
+## Contents
+<!-- toc -->
 
 This is an example of using gitbook. Gitbook is really cool.
 
@@ -24,10 +27,6 @@ This is an example of using gitbook. Gitbook is really cool.
 
     $ npm run docs-serve
     
-### For more...
-
-Build the gitbook, serve it up, and read it!
-
 ## Author
 
 Chad A. Moore.

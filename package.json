@@ -1,0 +1,22 @@
+{
+  "name": "pretty-good-gitbook",
+  "version": "0.1.0",
+  "description": "a sample repo for using gitbook",
+  "license": "mit",
+  "main": "client/index.html",
+  "scripts": {
+    "docs-install": "gitbook install ./docs",
+    "docs-build": "gitbook build ./docs",
+    "docs-serve": "gitbook serve ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camoore1979/pretty-good-gitbook"
+  },
+  "author": "",
+  "homepage": "https://github.com/camoore1979/pretty-good-gitbook",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

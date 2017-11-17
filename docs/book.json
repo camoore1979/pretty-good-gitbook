@@ -1,0 +1,13 @@
+{
+  "gitbook": "^3.2.3",
+  "title": "Pretty Good Gitbook",
+  "author": "Chad Allen Moore",
+  "structure": {},
+  "plugins": ["toc"],
+  "pluginsConfig": {
+    "toc": {
+      "addClass": true,
+      "className": "toc"
+    }
+  }
+}
