@@ -1,0 +1,8 @@
+
+# ignore ide config files
+.idea
+
+# ignore gitbook build results
+docs/_book
+docs/node_modules
+
